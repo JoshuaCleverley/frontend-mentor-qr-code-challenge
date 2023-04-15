@@ -21,7 +21,7 @@ My first challenge on Frontend Mentor.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [GitHub project](https://github.com/JoshuaCleverley/frontend-mentor-qr-code-challenge)
 
 ## My process
 
